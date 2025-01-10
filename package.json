@@ -1,0 +1,46 @@
+{
+	"name": "@scriptassist/interview",
+	"private": true,
+	"version": "0.0.0",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite --port 8000",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.11.1",
+		"@mantine/carousel": "^6.0.11",
+		"@mantine/core": "^6.0.5",
+		"@mantine/dates": "^6.0.5",
+		"@mantine/dropzone": "^6.0.5",
+		"@mantine/form": "^6.0.5",
+		"@mantine/hooks": "^6.0.5",
+		"@mantine/modals": "^6.0.5",
+		"@mantine/notifications": "^6.0.5",
+		"@mantine/spotlight": "^6.0.5",
+		"@tanstack/react-query": "^4.28.0",
+		"@vitejs/plugin-react": "^4.0.4",
+		"axios": "^1.7.9",
+		"js-cookie": "^3.0.5",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-hot-toast": "^2.5.1",
+		"react-icons": "^5.4.0",
+		"react-query": "^3.39.3",
+		"react-router-dom": "^6.8.0",
+		"react-signature-canvas": "^1.0.6",
+		"sass": "^1.64.2",
+		"uuid": "^11.0.3",
+		"zustand": "^4.5.6"
+	},
+	"devDependencies": {
+		"@types/js-cookie": "^3.0.6",
+		"@types/react": "^18.2.0",
+		"@types/react-dom": "^18.2.0",
+		"autoprefixer": "^10.4.20",
+		"postcss": "^8.4.49",
+		"tailwindcss": "^3.4.17",
+		"typescript": "^5.0.4",
+		"vite": "^4.4.8"
+	}
+}
